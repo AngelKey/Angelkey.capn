@@ -1,0 +1,23 @@
+{
+  "name": "capn",
+  "version": "0.0.0",
+  "description": "A small demo app for 3rd party keybase apps",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keybase/capn"
+  },
+  "keywords": [
+    "keybase",
+    "chat"
+  ],
+  "author": "Maxwell Krohn",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/keybase/capn/issues"
+  },
+  "homepage": "https://github.com/keybase/capn"
+}
