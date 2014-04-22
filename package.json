@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/keybase/capn/issues"
   },
-  "homepage": "https://github.com/keybase/capn"
+  "homepage": "https://github.com/keybase/capn",
+  "dependencies": {
+    "iced-coffee-script": "^1.7.1-b"
+  }
 }
